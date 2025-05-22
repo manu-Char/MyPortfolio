@@ -1030,7 +1030,7 @@
               </div>
             </div>
           </div>
-         <div class="contact-form">
+<div class="contact-form">
   <form action="https://formspree.io/f/mldbkjaq" method="POST">
     <div class="form-group">
       <input
@@ -1066,7 +1066,14 @@
         required
       ></textarea>
     </div>
+    
+    <!-- Anti-spam honeypot field (optional, hidden from users) -->
+    <input type="text" name="_honey" style="display:none">
+    
+    <!-- Disable captcha and prevent Formspree popup redirect -->
     <input type="hidden" name="_captcha" value="false" />
+    <input type="hidden" name="_next" value="https://manu-char.github.io/MyPortfolio/" />
+    
     <button type="submit" class="submit-btn">Send Message</button>
   </form>
 </div>
