@@ -20,7 +20,7 @@ Focused on building technical skills and industry knowledge.
 **Weather24**  
 A weather app providing live forecasts via OpenWeatherAPI.  
 *Technologies:* HTML, CSS, JavaScript  
-[Live Demo](https://manu-char.github.io/Weather24/) | [Source Code](#)
+[Live Demo](https://manu-char.github.io/Weather24/) | [Source Code](https://github.com/manu-Char/Weather24)
 
 ## 📫 Contact
 Feel free to reach out for projects, ideas, or opportunities!  
